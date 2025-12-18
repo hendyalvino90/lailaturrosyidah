@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
 import { Input } from '@/components/ui/input'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
-import { Link } from 'next/link'
+import Link from 'next/link'
 import { ArrowLeft, Search, ShoppingCart, Star, Clock, Filter, ChefHat, Heart } from 'lucide-react'
 
 interface Product {
